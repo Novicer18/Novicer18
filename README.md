@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-## 👤 About Me :<br><br>🔭 I’m currently working on secure full-stack web applications and cybersecurity-focused projects  <br>👯 I’m looking to collaborate on cybersecurity, web security, and full-stack development projects  <br>🤝 I’m looking for help with advanced penetration testing, exploit development, and cloud security  <br>🌱 I’m currently learning application security, ethical hacking, and secure system design  <br>💬 Ask me about cybersecurity, full-stack development, web security, and backend architectures  <br>⚡ Fun fact: I enjoy breaking applications just as much as building them — security starts with curiosity<br>
+## 💫 About Me:
+#### 👤 About Me :<br><br>🔭 I’m currently working on secure full-stack web applications and cybersecurity-focused projects  <br>👯 I’m looking to collaborate on cybersecurity, web security, and full-stack development projects  <br>🤝 I’m looking for help with advanced penetration testing, exploit development, and cloud security  <br>🌱 I’m currently learning application security, ethical hacking, and secure system design  <br>💬 Ask me about cybersecurity, full-stack development, web security, and backend architectures  <br>⚡ Fun fact: I enjoy breaking applications just as much as building them — security starts with curiosity<br>
 
 
 ## 🌐 Socials:
